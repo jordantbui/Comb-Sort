@@ -9,7 +9,7 @@ CS 3310 Design and Analysis of Algorithms
 
 Midterm Project 1
 
-Comb Sort
+Comb Sort Sorting Algorithm
 
 Comb sort is an algorithm that improves the bubble sort by 
 using gaps to compare the values. The gaps are determined 
