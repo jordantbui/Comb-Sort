@@ -1,4 +1,4 @@
-# Midterm Project 1
+# Midterm Project 1 - CS 3310
 10/7/2020
 
 Jordan Bui (BroncoID: 011821368)
